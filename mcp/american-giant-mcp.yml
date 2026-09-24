@@ -1,0 +1,8 @@
+generated: "2026-09-24"
+method: probed
+source: "https://www.american-giant.com/.well-known/ucp"
+deployment:
+  mode: remote
+  endpoint: "https://americangiant.myshopify.com/api/ucp/mcp"
+  auth: unknown
+  verified: probed

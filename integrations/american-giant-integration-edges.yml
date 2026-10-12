@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/american-giant/integrations
+- https://n8n.io/integrations/american-giant/
+- https://composio.dev/toolkits/american-giant
+- https://monid.ai/tools/american-giant
+checked:
+- https://composio.dev/toolkits/american-giant
+- https://monid.ai/tools/american-giant
+- https://n8n.io/integrations/american-giant/
+- https://zapier.com/apps/american-giant/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
